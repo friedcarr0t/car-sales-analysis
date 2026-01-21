@@ -182,6 +182,6 @@ This analysis utilized the following tools and technologies:
 - **PostgreSQL / SQL**: Data analysis and query development (19 SQL queries in `sql/` folder)
 - **Power BI**: Dashboard development and visualization for executive reporting
 - **Data Format**: CSV files for data storage and exchange
-
+    
 **Dataset Source**: Kaggle - Car Sales Report  
 **License**: This project is for educational and analytical purposes
